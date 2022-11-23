@@ -1,1 +1,1 @@
-# custom-jquery-accordion-faq Demo: https://afzalhp22.github.io/custom-jquery-accordion-faq/
+# custom-jquery-accordion-faq Demo: https://afzalpatwary.github.io/custom-jquery-accordion-faq/
