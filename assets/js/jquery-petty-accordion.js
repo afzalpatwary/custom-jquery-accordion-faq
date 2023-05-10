@@ -2,8 +2,8 @@
  * @Script js for (custom accordion)
  *
  * @project     - custom accordion
- * @author      - Afzal Hossain Patwary
- * @created_by  - Afzal Hossain Patwary
+ * @author      - Md Afzal Hossain Patwary
+ * @created_by  - Md Afzal Hossain Patwary
  * @created_at  - 01-04-2021
  * @modified_by -
  */
